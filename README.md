@@ -1,12 +1,13 @@
 # SWORD
  SWORD: Systematic Wikidata-based Object-Relation Distortion for Evaluating Cross-Lingual Bias in LLM Factual Accuracy
 
- ## Abstract 
 ## Overview
 
 **Figure 1. SWORD pipeline overview**
 
-[📄 View Figure 1 (PDF)](01.results/00.main_figures/Fig1.Pipeline.pdf)
+![Figure 1: SWORD Pipeline](01.results/00.main_figures/Fig1.Pipeline.png)
+
+ ## Abstract 
 
 Modern LLMs demonstrate impressive performance on multilin-gual tasks, often approaching human-level accuracy across diverse languages. 
 However, standard benchmarks primarily reward select-ing correct answers, which does not necessarily indicate genuine factual understanding. 
